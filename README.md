@@ -1,3 +1,3 @@
 # ViECap
 
-the code will release soon
+the code will be released in two weeks
