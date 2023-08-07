@@ -1,0 +1,42 @@
+[
+    {
+        "image_name": "honkai1.jpg",
+        "prediction": "A group of people standing around a table with a cake."
+    },
+    {
+        "image_name": "honkai2.jpg",
+        "prediction": "A group of people that are posing for a picture."
+    },
+    {
+        "image_name": "honkai3.jpg",
+        "prediction": "A woman that is standing in the dark."
+    },
+    {
+        "image_name": "honkai4.jpg",
+        "prediction": "A beautiful woman sitting on top of a wooden bench."
+    },
+    {
+        "image_name": "nocaps1.jpg",
+        "prediction": "A blue jay is perched on a tree branch."
+    },
+    {
+        "image_name": "nocaps2.jpg",
+        "prediction": "A centipede is eating from a tree branch."
+    },
+    {
+        "image_name": "nocaps3.jpg",
+        "prediction": "A group of dolphins are swimming in the water."
+    },
+    {
+        "image_name": "nocaps4.jpg",
+        "prediction": "A gray and brown raccoon is sitting on a rock."
+    },
+    {
+        "image_name": "nocaps5.jpg",
+        "prediction": "A white mechanical fan hanging from a ceiling."
+    },
+    {
+        "image_name": "nocaps6.jpg",
+        "prediction": "A close up of a pair of sunglasses on a table."
+    }
+]

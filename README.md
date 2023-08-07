@@ -1,3 +1,1 @@
-# ViECap
-
-the code will be released in two weeks
+The instruction of this repo will be released as soon as possible.
