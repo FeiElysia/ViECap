@@ -1,5 +1,5 @@
 ## Transferable Decoding with Visual Entities for Zero-Shot Image Captioning, ICCV 2023
-**Authors**: [Junjie Fei](https://feielysia.github.io/), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, Feng Zheng
+**Authors**: [Junjie Fei](https://github.com/FeiElysia), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, Feng Zheng
 
 This repository contains the official implementation of our paper: [*Transferable Decoding with Visual Entities for Zero-Shot Image Captioning*](https://arxiv.org/abs/2307.16525).
 
@@ -26,7 +26,7 @@ This repository contains the official implementation of our paper: [*Transferabl
 
 ## Introduction
 
-This paper aims at the transferability of the zero-shot captioning for out-of-domain images. As shown in this image, we demonstrate the susceptibility of pre-trained vision-language models and large language models to modality bias induced by language models when adapting them into image-to-text generation. Simultaneously, these models tend to generate descriptions containing objects that do not actually exist in the image but frequently appear during training, a phenomenon known as *object hallucination*. We propose ViECap, a transferable decoding model that leverages entity-aware decoding to generate descriptions in both seen and unseen scenarios. This is the official repository for ViECap, in which you can easily reproduce our paper's results and try it on your own images.
+This paper aims at the transferability of the zero-shot captioning for out-of-domain images. As shown in this image, we demonstrate the susceptibility of pre-trained vision-language models and large language models to *modality bias* induced by language models when adapting them into image-to-text generation. Simultaneously, these models tend to generate descriptions containing objects that do not actually exist in the image but frequently appear during training, a phenomenon known as *object hallucination*. We propose ViECap, a transferable decoding model that leverages entity-aware decoding to generate descriptions in both seen and unseen scenarios. This is the official repository for ViECap, in which you can easily reproduce our paper's results and try it on your own images.
 
 <div align = center>
 <img src="https://github.com/FeiElysia/ViECap/blob/main/demo/experiment1.png" width = 80% heigth = 80%>
@@ -190,7 +190,7 @@ MAGIC |6.2   |12.2  |17.5 |5.9  |
 DeCap |16.3  |17.9  |35.7 |11.1 |
 CapDec|17.3  |18.6  |35.7 |---- |
 ----- |----  |----  |---- |---- |
-ViECap|61.1  |18.0  |38.4 |11.2 |
+ViECap|17.4  |18.0  |38.4 |11.2 |
 
 </div>
 
