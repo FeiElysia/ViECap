@@ -1,0 +1,9 @@
+tqdm @ file:///croot/tqdm_1679561862951/work
+clip @ git+https://github.com/openai/CLIP.git@a9b1bf5920416aaeaec965c25dd9e8f98c864f16
+huggingface-hub==0.16.2
+transformers==4.19.2
+pandas==2.0.0
+nltk==3.8.1
+matplotlib==3.7.1
+numpy==1.24.1
+pycocotools==2.0.6
