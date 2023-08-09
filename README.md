@@ -300,7 +300,7 @@ The generated caption is: *A little girl in pink pajamas sitting on a bed.*
 
 ***
 
-Change ```--image_path``` to specify the path of any image you want to descriptions!
+Change ```--image_path``` to specify the path of any image you want to describe!
 
 <div align = center>
 <img src="https://github.com/FeiElysia/test/blob/main/images/instance2.jpg" width = 80% heigth = 80%>
