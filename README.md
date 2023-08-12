@@ -1,5 +1,5 @@
 ## Transferable Decoding with Visual Entities for Zero-Shot Image Captioning, ICCV 2023
-**Authors**: [Junjie Fei](https://github.com/FeiElysia), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, [Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/)
+**Authors**: [Junjie Fei](https://feielysia.github.io/), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, [Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/)
 
 This repository contains the official implementation of our paper: [*Transferable Decoding with Visual Entities for Zero-Shot Image Captioning*](https://arxiv.org/abs/2307.16525).
 
@@ -90,7 +90,7 @@ If you find our paper and code helpful, we would greatly appreciate it if you co
 
 ## Required Prerequisites
 
-For code execution, begin by cloning this repository and downloading the annotations, checkpoints, and evaluation files from the [Releases](https://github.com/FeiElysia/ViECap/releases/tag/checkpoints) of this repository. Afterward, unzip the files and position them within the root directory.
+For code execution, begin by cloning this repository and downloading the annotations, checkpoints, and evaluation files from the [Releases](https://github.com/FeiElysia/ViECap/releases/tag/checkpoints) of this repository. Afterward, unzip the files and position them within the root directory. It should be noted that we only run our codes on Linux.
 
 ```
 git clone git@github.com:FeiElysia/ViECap.git
@@ -124,6 +124,8 @@ python generating_prompt_ensemble.py
 ```
 
 (Optional) you can also acquire the image features beforehand for evaluation. Make sure to modify the script if you want to adapt it to your own dataset.
+
+Note that if you choose not to use the provided image features from us, you should download the image source files for the COCO and Flickr30k dataset from their official websites. Afterwards, you should place these files into the 'ViECap/annotations/coco/val2014' directory for COCO images and the 'ViECap/annotations/flickr30k/flickr30k-images' directory for Flickr30k images.
 
 ```
 python images_features_extraction.py
