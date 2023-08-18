@@ -297,7 +297,7 @@ python infer_by_instance.py --prompt_ensemble --using_hard_prompt --soft_prompt_
 
 The generated caption is: *A little girl in pink pajamas sitting on a bed.*
 <div align = center>
-<img src="https://github.com/FeiElysia/test/blob/main/images/instance1.jpg" width = 80% heigth = 80%>
+<img src="https://github.com/FeiElysia/ViECap/blob/main/images/instance1.jpg" width = 80% heigth = 80%>
 </div>
 
 ***
@@ -305,13 +305,19 @@ The generated caption is: *A little girl in pink pajamas sitting on a bed.*
 Change ```--image_path``` to specify the path of any image you want to describe!
 
 <div align = center>
-<img src="https://github.com/FeiElysia/test/blob/main/images/instance2.jpg" width = 80% heigth = 80%>
+<img src="https://github.com/FeiElysia/ViECap/blob/main/images/instance2.jpg" width = 80% heigth = 80%>
 
 *A little girl that is laying down on a bed.*
 </div>
 
 <div align = center>
-<img src="https://github.com/FeiElysia/test/blob/main/images/instance4.jpg" width = 80% heigth = 80%>
+<img src="https://github.com/FeiElysia/ViECap/blob/main/images/instance4.jpg" width = 80% heigth = 80%>
+
+*A scenic view of a river with a waterfall in the background.*
+</div>
+
+<div align = center>
+<img src="https://github.com/FeiElysia/ViECap/tree/main/demo/gakki.png" width = 80% heigth = 80%>
 
 *A scenic view of a river with a waterfall in the background.*
 </div>
