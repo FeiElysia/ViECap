@@ -317,9 +317,7 @@ Change ```--image_path``` to specify the path of any image you want to describe!
 </div>
 
 <div align = center>
-<img src="https://github.com/FeiElysia/ViECap/tree/main/demo/gakki.png" width = 80% heigth = 80%>
-
-*A scenic view of a river with a waterfall in the background.*
+<img src="https://github.com/FeiElysia/ViECap/blob/main/demo/gakki.png" width = 80% heigth = 80%>
 </div>
 
 (Optional) you can also execute the following script to generate captions for all the images within a specific file.
