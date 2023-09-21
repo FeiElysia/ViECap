@@ -1,5 +1,17 @@
 [
     {
+        "image_name": "gakki1.jpg",
+        "prediction": "A beautiful woman sitting on top of a lush green field."
+    },
+    {
+        "image_name": "gakki2.jpg",
+        "prediction": "A young woman is sitting on a sandy beach."
+    },
+    {
+        "image_name": "gakki3.jpg",
+        "prediction": "A smiling girl wearing a sun hat smiling for the camera."
+    },
+    {
         "image_name": "honkai1.jpg",
         "prediction": "A group of people standing around a table with a cake."
     },
@@ -14,6 +26,34 @@
     {
         "image_name": "honkai4.jpg",
         "prediction": "A beautiful woman sitting on top of a wooden bench."
+    },
+    {
+        "image_name": "instance1.jpg",
+        "prediction": "A little girl in pink pajamas sitting on a bed."
+    },
+    {
+        "image_name": "instance2.jpg",
+        "prediction": "A little girl that is laying down on a bed."
+    },
+    {
+        "image_name": "instance3.jpg",
+        "prediction": "A couple of stuffed animals sitting next to each other."
+    },
+    {
+        "image_name": "instance4.jpg",
+        "prediction": "A scenic view of a river with a waterfall in the background."
+    },
+    {
+        "image_name": "instance5.jpg",
+        "prediction": "A flock of birds sitting on top of a body of water."
+    },
+    {
+        "image_name": "instance6.jpg",
+        "prediction": "A yellow bicycle is parked in front of a tree."
+    },
+    {
+        "image_name": "keqing1.jpg",
+        "prediction": "A girl with a ponytail is walking down the street."
     },
     {
         "image_name": "nocaps1.jpg",

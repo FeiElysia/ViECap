@@ -57,7 +57,7 @@ def main(args) -> None:
     # loading model
     tokenizer = AutoTokenizer.from_pretrained(args.language_model)
     model = ClipCaptionModel(args.continuous_prompt_length, args.clip_project_length, clip_hidden_size, gpt_type = args.language_model)
-    model.load_state_dict(torch.load(args.weight_path, map_location = device))
+    model.load_state_dict(torch.load(args.weight_path, map_location = device), strict = False)
     model.to(device)
     encoder, preprocess = clip.load(args.clip_model, device = device)
 
