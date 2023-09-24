@@ -9,12 +9,14 @@
 </a>
 </div>
 
+
+
 **Authors**: [Junjie Fei](https://feielysia.github.io/), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, [Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/)
 
 This repository contains the official implementation of our paper: [*Transferable Decoding with Visual Entities for Zero-Shot Image Captioning*](https://arxiv.org/abs/2307.16525).
 
 <div align = center>
-<img src="https://github.com/FeiElysia/ViECap/blob/main/demo/poster.png" width = 80% heigth = 80%>
+<img src="https://github.com/FeiElysia/ViECap/blob/main/demo/poster.png">
 </div>
 
 ***
