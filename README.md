@@ -1,19 +1,15 @@
 ## Transferable Decoding with Visual Entities for Zero-Shot Image Captioning, ICCV 2023
 
-<div align="center">
-<a src="https://img.shields.io/badge/arXiv-2307.16525-b31b1b.svg" href="https://arxiv.org/abs/2307.16525">
-    <img src="https://img.shields.io/badge/arXiv-2307.16525-b31b1b.svg">
-</a>
-<a src="https://img.shields.io/badge/dynamic/json?label=video&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Uj41187Uw " href=" https://www.bilibili.com/video/BV1Uj41187Uw/?vd_source=2c72a6cfe0cf2dcb169d0f25bbe35134">
-    <img src="https://img.shields.io/badge/dynamic/json?label=video&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Uj41187Uw ">
-</a>
-</div>
-
-
-
 **Authors**: [Junjie Fei](https://feielysia.github.io/), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, [Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/)
 
 This repository contains the official implementation of our paper: [*Transferable Decoding with Visual Entities for Zero-Shot Image Captioning*](https://arxiv.org/abs/2307.16525).
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2307.16525-b31b1b.svg)](https://arxiv.org/abs/2307.16525)
+[![bilibili](https://img.shields.io/badge/dynamic/json?label=video&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Uj41187Uw)](https://www.bilibili.com/video/BV1Uj41187Uw)
+
+</div>
 
 <div align = center>
 <img src="https://github.com/FeiElysia/ViECap/blob/main/demo/poster.png">
