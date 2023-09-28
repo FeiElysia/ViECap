@@ -2,7 +2,7 @@
 
 **Authors**: [Junjie Fei](https://feielysia.github.io/), [Teng Wang](http://ttengwang.com/), [Jinrui Zhang](https://github.com/zjr2000), Zhenyu He, Chengjie Wang, [Feng Zheng](https://faculty.sustech.edu.cn/fengzheng/)
 
-This repository contains the official implementation of our paper: [*Transferable Decoding with Visual Entities for Zero-Shot Image Captioning*](https://arxiv.org/abs/2307.16525).
+This repository contains the official implementation of our paper: [*Transferable Decoding with Visual Entities for Zero-Shot Image Captioning*](https://openaccess.thecvf.com/content/ICCV2023/html/Fei_Transferable_Decoding_with_Visual_Entities_for_Zero-Shot_Image_Captioning_ICCV_2023_paper.html).
 
 <div align="center">
 
