@@ -87,6 +87,17 @@ ViECap  |61.1  |64.3  |65.0  |66.2  |38.4  |54.2  |92.9  |47.9  |
 
 If you find our paper and code helpful, we would greatly appreciate it if you could leave a star and cite our work. Thanks!
 
+```
+@InProceedings{Fei_2023_ICCV,
+    author    = {Fei, Junjie and Wang, Teng and Zhang, Jinrui and He, Zhenyu and Wang, Chengjie and Zheng, Feng},
+    title     = {Transferable Decoding with Visual Entities for Zero-Shot Image Captioning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {3136-3146}
+}
+```
+
 ```bibtex
 @article{fei2023transferable,
   title={Transferable Decoding with Visual Entities for Zero-Shot Image Captioning},
